@@ -1,2 +1,8 @@
+3
 some data
+1
+2
 additional string
+4
+3
+6
